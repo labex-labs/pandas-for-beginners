@@ -16,21 +16,21 @@ Este curso completo cubre los conceptos fundamentales y las técnicas prácticas
 
 ## Ejercicios
 
-|   Índice | Nombre                                       | Dificultad   | Práctica                                                                                                                      |
-|----------|----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Introducción y Configuración de Pandas | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-introduction-and-setup-596395'>Iniciar Laboratorio</a>   |
-|        2 | 📖 🆓 Creación de DataFrames con Pandas      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-creating-dataframes-596391'>Iniciar Laboratorio</a>      |
-|        3 | 📖 🆓 Pandas: Lectura de Datos Externos      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-reading-external-data-596396'>Iniciar Laboratorio</a>    |
-|        4 | 📖 🆓 Selección de Datos en Pandas           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-selecting-data-596397'>Iniciar Laboratorio</a>           |
-|        5 | 📖 🆓 Filtrado de Datos con Pandas           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-filtering-data-596393'>Iniciar Laboratorio</a>           |
-|        6 | 📖 🆓 Pandas Sorting Data                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-sorting-data-596398'>Iniciar Laboratorio</a>             |
-|        7 | 📖 🆓 Limpieza Básica de Datos con Pandas    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-basic-data-cleaning-596390'>Iniciar Laboratorio</a>      |
-|        8 | 📖 🆓 Estadísticas Descriptivas con Pandas   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-descriptive-statistics-596392'>Iniciar Laboratorio</a>   |
-|        9 | 📖 🆓 Agrupación y Agregación en Pandas      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/pandas-pandas-grouping-and-aggregating-596394'>Iniciar Laboratorio</a> |
+|   Índice | Nombre                                       | Dificultad   | Práctica                                                                                                                                             |
+|----------|----------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Introducción y Configuración de Pandas | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-introduction-and-setup-596395?course=pandas-for-beginners'>Iniciar Laboratorio</a>   |
+|        2 | 🧩 🆓 Creación de DataFrames con Pandas      | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-creating-dataframes-596391?course=pandas-for-beginners'>Iniciar Laboratorio</a>      |
+|        3 | 🧩 🆓 Pandas: Lectura de Datos Externos      | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-reading-external-data-596396?course=pandas-for-beginners'>Iniciar Laboratorio</a>    |
+|        4 | 🧩 🆓 Selección de Datos en Pandas           | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-selecting-data-596397?course=pandas-for-beginners'>Iniciar Laboratorio</a>           |
+|        5 | 🧩 🆓 Filtrado de Datos con Pandas           | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-filtering-data-596393?course=pandas-for-beginners'>Iniciar Laboratorio</a>           |
+|        6 | 🧩 🆓 Pandas Sorting Data                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-sorting-data-596398?course=pandas-for-beginners'>Iniciar Laboratorio</a>             |
+|        7 | 🧩 🆓 Limpieza Básica de Datos con Pandas    | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-basic-data-cleaning-596390?course=pandas-for-beginners'>Iniciar Laboratorio</a>      |
+|        8 | 🧩 🆓 Estadísticas Descriptivas con Pandas   | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-descriptive-statistics-596392?course=pandas-for-beginners'>Iniciar Laboratorio</a>   |
+|        9 | 🧩 🆓 Agrupación y Agregación en Pandas      | Principiante | <a target='_blank' href='https://labex.io/es/labs/pandas-pandas-grouping-and-aggregating-596394?course=pandas-for-beginners'>Iniciar Laboratorio</a> |
 
 ## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
+[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
