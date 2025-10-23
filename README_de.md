@@ -16,21 +16,21 @@ Dieser umfassende Kurs behandelt die grundlegenden Konzepte und praktischen Tech
 
 ## Übungen
 
-|   Index | Name                                       | Schwierigkeit   | Übung                                                                                                                   |
-|---------|--------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Pandas Einführung und Einrichtung    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-introduction-and-setup-596395'>Labor Starten</a>   |
-|       2 | 📖 🆓 Pandas DataFrames erstellen          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-creating-dataframes-596391'>Labor Starten</a>      |
-|       3 | 📖 🆓 Pandas: Lesen externer Daten         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-reading-external-data-596396'>Labor Starten</a>    |
-|       4 | 📖 🆓 Pandas Datenauswahl                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-selecting-data-596397'>Labor Starten</a>           |
-|       5 | 📖 🆓 Pandas Datenfilterung                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-filtering-data-596393'>Labor Starten</a>           |
-|       6 | 📖 🆓 Pandas Datensortierung               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-sorting-data-596398'>Labor Starten</a>             |
-|       7 | 📖 🆓 Pandas Grundlegende Datenbereinigung | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-basic-data-cleaning-596390'>Labor Starten</a>      |
-|       8 | 📖 🆓 Pandas deskriptive Statistik         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-descriptive-statistics-596392'>Labor Starten</a>   |
-|       9 | 📖 🆓 Pandas Gruppierung und Aggregation   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/pandas-pandas-grouping-and-aggregating-596394'>Labor Starten</a> |
+|   Index | Name                                       | Schwierigkeit   | Übung                                                                                                                                          |
+|---------|--------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Pandas Einführung und Einrichtung    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-introduction-and-setup-596395?course=pandas-for-beginners'>Labor Starten</a>   |
+|       2 | 🧩 🆓 Pandas DataFrames erstellen          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-creating-dataframes-596391?course=pandas-for-beginners'>Labor Starten</a>      |
+|       3 | 🧩 🆓 Pandas: Lesen externer Daten         | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-reading-external-data-596396?course=pandas-for-beginners'>Labor Starten</a>    |
+|       4 | 🧩 🆓 Pandas Datenauswahl                  | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-selecting-data-596397?course=pandas-for-beginners'>Labor Starten</a>           |
+|       5 | 🧩 🆓 Pandas Datenfilterung                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-filtering-data-596393?course=pandas-for-beginners'>Labor Starten</a>           |
+|       6 | 🧩 🆓 Pandas Datensortierung               | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-sorting-data-596398?course=pandas-for-beginners'>Labor Starten</a>             |
+|       7 | 🧩 🆓 Pandas Grundlegende Datenbereinigung | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-basic-data-cleaning-596390?course=pandas-for-beginners'>Labor Starten</a>      |
+|       8 | 🧩 🆓 Pandas deskriptive Statistik         | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-descriptive-statistics-596392?course=pandas-for-beginners'>Labor Starten</a>   |
+|       9 | 🧩 🆓 Pandas Gruppierung und Aggregation   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/pandas-pandas-grouping-and-aggregating-596394?course=pandas-for-beginners'>Labor Starten</a> |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
